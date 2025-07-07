@@ -1,7 +1,7 @@
 {
   "name": "freeclaudecode",
   "version": "1.0.0",
-  "description": "Get $50 FREE Claude AI credits instantly! Access Claude AI through AnyRouter's reliable proxy service with zero configuration hassle.",
+  "description": "Get $50 FREE Claude AI credits instantly! Access Claude AI through AnyRouter's reliable proxy service (third-party, not affiliated with this project). AnyRouter now supports Claude 4 (e.g., claude-4-opus) as well as Claude 3.5/3, with zero configuration hassle.",
   "main": "examples/javascript/basic_chat.js",
   "scripts": {
     "start": "node examples/javascript/basic_chat.js",

@@ -2,8 +2,7 @@
 """
 Basic Chat Example with AnyRouter Claude AI
 
-This example demonstrates how to have a simple conversation with Claude AI
-using the AnyRouter proxy service.
+本示例基于 AnyRouter Claude AI 代理（第三方平台，非本项目所有）。AnyRouter 现已支持 Claude 4（如 claude-4-opus 等），兼容 Claude 3.5/3。
 
 Get your free $50 credits: https://anyrouter.top/register?aff=UBdY
 """
@@ -122,10 +121,11 @@ def main():
             elif user_input.lower() == 'models':
                 print("""
 🤖 Available Claude models:
-  - claude-3-5-sonnet-20241022 (Latest, most advanced)
-  - claude-3-opus-20240229 (Most capable)
-  - claude-3-sonnet-20240229 (Balanced - default)
-  - claude-3-haiku-20240307 (Fastest)
+  - claude-4-opus-20240424 (最新最强，推荐)
+  - claude-3-5-sonnet-20241022 (高级推理)
+  - claude-3-opus-20240229 (复杂任务)
+  - claude-3-sonnet-20240229 (均衡 - 默认)
+  - claude-3-haiku-20240307 (快速)
 """)
                 continue
             elif user_input.lower() == 'credits':

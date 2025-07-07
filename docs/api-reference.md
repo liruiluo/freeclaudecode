@@ -1,5 +1,7 @@
 # 📚 AnyRouter Claude AI API Reference
 
+> **说明：AnyRouter 是第三方 Claude AI 代理服务平台，与本项目无直接关联。AnyRouter 现已支持 Claude 4（如 claude-4-opus 等），兼容 Claude 3.5/3。**
+
 Complete API documentation for integrating Claude AI through AnyRouter's proxy service.
 
 ## 🌐 Base URL
@@ -60,10 +62,11 @@ Authorization: Bearer YOUR_API_KEY
 
 | Model ID | Description | Best For |
 |----------|-------------|----------|
-| `claude-3-5-sonnet-20241022` | Latest, most advanced | Complex reasoning, analysis |
-| `claude-3-opus-20240229` | Most capable | Complex tasks, creative writing |
-| `claude-3-sonnet-20240229` | Balanced | General purpose, coding |
-| `claude-3-haiku-20240307` | Fastest | Simple tasks, quick responses |
+| `claude-4-opus-20240424` | 最新最强，适合复杂推理（推荐） | 高级推理、复杂任务 |
+| `claude-3-5-sonnet-20241022` | 高级推理 | 复杂推理、分析 |
+| `claude-3-opus-20240229` | 复杂任务 | 创意写作、复杂任务 |
+| `claude-3-sonnet-20240229` | 性能均衡 | 通用、编程 |
+| `claude-3-haiku-20240307` | 快速响应 | 简单任务、快速回复 |
 
 #### Message Format
 

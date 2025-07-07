@@ -3,8 +3,7 @@
 /**
  * Basic Chat Example with AnyRouter Claude AI (JavaScript/Node.js)
  * 
- * This example demonstrates how to have a simple conversation with Claude AI
- * using the AnyRouter proxy service with JavaScript/Node.js.
+ * 本示例基于 AnyRouter Claude AI 代理（第三方平台，非本项目所有）。AnyRouter 现已支持 Claude 4（如 claude-4-opus 等），兼容 Claude 3.5/3。
  * 
  * Get your free $50 credits: https://anyrouter.top/register?aff=UBdY
  * 
@@ -158,13 +157,7 @@ function showHelp() {
  * Display available models
  */
 function showModels() {
-    console.log(`
-🤖 Available Claude models:
-  - claude-3-5-sonnet-20241022 (Latest, most advanced)
-  - claude-3-opus-20240229 (Most capable)
-  - claude-3-sonnet-20240229 (Balanced - default)
-  - claude-3-haiku-20240307 (Fastest)
-`);
+    console.log(`\n🤖 Available Claude models:\n  - claude-4-opus-20240424 (最新最强，推荐)\n  - claude-3-5-sonnet-20241022 (高级推理)\n  - claude-3-opus-20240229 (复杂任务)\n  - claude-3-sonnet-20240229 (均衡 - 默认)\n  - claude-3-haiku-20240307 (快速)\n`);
 }
 
 /**

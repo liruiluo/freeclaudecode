@@ -7,6 +7,8 @@
 
 > 🎉 **Get $50 FREE Claude AI credits instantly!** Access Claude AI through our reliable proxy service with zero configuration hassle.
 
+> **说明：AnyRouter 是第三方 Claude AI 代理服务平台，与本项目无直接关联。AnyRouter 现已支持 Claude 4（如 claude-4-opus 等），兼容 Claude 3.5/3。**
+
 ## 🌟 Why Choose AnyRouter?
 
 - **💰 $50 FREE Credits** - Get started immediately with substantial free credits
@@ -54,7 +56,7 @@ print(response.json())
 | Feature | Free Tier | Benefits |
 |---------|-----------|----------|
 | **Credits** | $50 FREE | No credit card required |
-| **Models** | All Claude models | Claude 3.5 Sonnet, Claude 3 Opus, etc. |
+| **Models** | All Claude models | Claude 4 Opus（推荐）、Claude 3.5 Sonnet、Claude 3 Opus 等 |
 | **Rate Limit** | Generous | Perfect for development and testing |
 | **Support** | 24/7 | Community + Priority support |
 | **Setup Time** | < 30 seconds | Instant access |

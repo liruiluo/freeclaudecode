@@ -1,5 +1,7 @@
 # ❓ Frequently Asked Questions (FAQ)
 
+> **说明：AnyRouter 是第三方 Claude AI 代理服务平台，与本项目无直接关联。AnyRouter 现已支持 Claude 4（如 claude-4-opus 等），兼容 Claude 3.5/3。**
+
 ## 🎁 Free Credits & Registration
 
 ### Q: How do I get the $50 free credits?
@@ -18,10 +20,11 @@
 
 ### Q: Which Claude model should I use?
 **A:** It depends on your needs:
-- **claude-3-5-sonnet-20241022**: Latest and most advanced for complex reasoning
-- **claude-3-opus-20240229**: Most capable for complex creative tasks
-- **claude-3-sonnet-20240229**: Best balance of performance and speed (recommended)
-- **claude-3-haiku-20240307**: Fastest for simple, quick responses
+- **claude-4-opus-20240424**: 最新最强，适合复杂推理（推荐）
+- **claude-3-5-sonnet-20241022**: 高级推理
+- **claude-3-opus-20240229**: 复杂创意任务
+- **claude-3-sonnet-20240229**: 性能均衡（推荐）
+- **claude-3-haiku-20240307**: 快速响应
 
 ### Q: What's the difference between AnyRouter and calling Claude directly?
 **A:** AnyRouter provides:

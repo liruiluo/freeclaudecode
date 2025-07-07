@@ -1,5 +1,7 @@
 # 🚀 Getting Started with AnyRouter Claude AI
 
+> **说明：AnyRouter 是第三方 Claude AI 代理服务平台，与本项目无直接关联。AnyRouter 现已支持 Claude 4（如 claude-4-opus 等），兼容 Claude 3.5/3。**
+
 Welcome to the complete guide for using AnyRouter's Claude AI proxy service! This guide will get you up and running in just a few minutes.
 
 ## 📋 Prerequisites
@@ -128,10 +130,11 @@ chatWithClaude('Explain quantum computing', apiKey)
 
 ### Available Models
 
-- `claude-3-opus-20240229` - Most capable, best for complex tasks
-- `claude-3-sonnet-20240229` - Balanced performance and speed
-- `claude-3-haiku-20240307` - Fastest, best for simple tasks
-- `claude-3-5-sonnet-20241022` - Latest and most advanced
+- `claude-4-opus-20240424` - 最新最强，适合复杂推理（推荐）
+- `claude-3-5-sonnet-20241022` - 高级推理
+- `claude-3-opus-20240229` - 复杂任务
+- `claude-3-sonnet-20240229` - 性能均衡
+- `claude-3-haiku-20240307` - 快速响应
 
 ### Request Parameters
 

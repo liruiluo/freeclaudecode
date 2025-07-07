@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Free Claude Code - Quick Start Script
+# 本脚本用于 AnyRouter Claude AI 代理（第三方平台，非本项目所有）。AnyRouter 现已支持 Claude 4（如 claude-4-opus 等），兼容 Claude 3.5/3。
 # Get your free $50 credits: https://anyrouter.top/register?aff=UBdY
 
 echo "🚀 Free Claude Code - Quick Start Setup"
